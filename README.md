@@ -53,6 +53,14 @@ following CSS:
             padding-left: 10px;
     }
 
+## Installation
+
+Get it from GitHub and install via the standard `python setup.py`:
+
+    git clone https://github.com/senko/pcss.git
+    cd pcss
+    python setup.py install
+
 ## The Syntax
 
 Create CSS declarations by invoking `css`. The first argument should be
