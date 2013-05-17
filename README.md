@@ -1,5 +1,8 @@
 # PCSS - The Python CSS preprocessor
 
+[![Build Status](https://secure.travis-ci.org/senko/pcss.png?branch=master)](http://travis-ci.org/senko/pcss)
+
+
 "I Regret Nothing" (Łukasz Langa, EuroPython 2012)
 
 PCSS allows you to write CSS using Python syntax and using all the bells and
