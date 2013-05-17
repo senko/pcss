@@ -1,0 +1,6 @@
+*.pyc
+/build/
+/sdist/
+/dist/
+/*.egg-info/
+*.css
